@@ -15,5 +15,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data (если нужно)
+# Data 
 data/*.csv
+
+*/catboost_info/
